@@ -12,3 +12,5 @@ Knowlegde gained:
    ![image](https://github.com/SaneelTare/AWS-Workshop/assets/90349506/53b7cac4-3ebd-4d5a-80ad-ec6a6b2ef86e)
 
 5. Vizualize data using Amazon Quicksight
+
+![image](https://github.com/SaneelTare/AWS-Workshop/assets/90349506/0bdf95f9-ba5e-4499-b0c9-2a6d94cacab0)
