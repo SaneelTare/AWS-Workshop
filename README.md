@@ -1,5 +1,5 @@
 # AWS-Workshop
-Attended an 3 hour AWS workshop to learn lambda functions, data lake, query data and QuickSight for data visualization
+Attended an 3 hour AWS S3 workshop to learn lambda functions, data lake, query data and QuickSight for data visualization
 
 Knowlegde gained:
 1. Ingest data into the Amazon S3 which the primary storage platform of the data lake
