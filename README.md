@@ -13,3 +13,5 @@ Knowlegde gained:
 5. Vizualize data using Amazon Quicksight
 
 ![image](https://github.com/SaneelTare/AWS-Workshop/assets/90349506/0bdf95f9-ba5e-4499-b0c9-2a6d94cacab0)
+
+**To avoid any sort of additional charges from AWS, all the databases created, data stored and visualized has been deleted, only screenshots available for reference**
