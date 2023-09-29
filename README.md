@@ -9,8 +9,10 @@ Knowlegde gained:
 2. Basic functionalities of AWS Lake Formation, configure different security policies to provide access, setup data lake, change default catalog settings, understand the AWS glue crawlers and prepare data for analytics.
 
  ![image](https://github.com/SaneelTare/AWS-Workshop/assets/90349506/c96dcc53-ce73-489f-af68-cb35f70a8a79)
+
+ ![image](https://github.com/SaneelTare/AWS-Workshop/assets/90349506/cf06aed5-d1a6-492f-bdce-05912c1fb68a)
   
-4. Query the Data Lake using Amazon Athena
+3. Query the Data Lake using Amazon Athena
 
    ![image](https://github.com/SaneelTare/AWS-Workshop/assets/90349506/53b7cac4-3ebd-4d5a-80ad-ec6a6b2ef86e)
 
