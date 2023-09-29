@@ -8,4 +8,7 @@ Knowlegde gained:
   ![image](https://github.com/SaneelTare/AWS-Workshop/assets/90349506/e645f3ef-30e3-4f4c-a3b0-f5a159b1b7cb)
   
 3. Query the Data Lake using Amazon Athena
+
+   ![image](https://github.com/SaneelTare/AWS-Workshop/assets/90349506/53b7cac4-3ebd-4d5a-80ad-ec6a6b2ef86e)
+
 5. Vizualize data using Amazon Quicksight
